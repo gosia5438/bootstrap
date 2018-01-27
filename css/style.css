@@ -1,3 +1,4 @@
+/*
 .container-example {
     height: 50vh;
     background-color: cadetblue;
@@ -14,4 +15,9 @@
 }
 .item:nth-child(2n){
     background-color: dimgray;
+}*/
+
+
+body {
+    height: 1900px;
 }
